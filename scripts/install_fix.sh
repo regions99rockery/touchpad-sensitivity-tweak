@@ -63,7 +63,7 @@ override-compositor=enabled
 # Fixed scroll speed (0.3 or 0.5 is your preferred slower speed)
 scroll-factor=0.3
 
-tap=enabled
+tap=disabled
 natural-scroll=disabled
 EOF
 
